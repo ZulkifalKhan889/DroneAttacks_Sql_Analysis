@@ -1,0 +1,344 @@
+﻿S_No,Date,Time,Location,City,Province,No_of_Strike,Al_Qaeda,Taliban,Civilians_Min,Civilians_Max,Foreigners_Min,Foreigners_Max,Total_Died_Min,Total_Died_Max,Injured_Min,Injured_Max,Women_Children,Comments,Source_Name,Longitude,Latitude,Temperature_C
+1,2004-06-18,22:00:00,Near Wana,south Waziristan,FATA,1,,1,0,4,,,,5,,,0,Village in Wana,dawn,69.9,33.0333,29
+2,2005-05-08,23:30:00,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,1,,0,1,,,,2,,,0,Civilian killied was Samiullah Khan who was a Local warlord,msnbc,70.1455,32.9746,12
+3,2005-12-01,,Haisori- Miran Shah,North Waziristan,FATA,1,1,,0,1,,3,,5,,2,,No. 3 Al-Qaeda's Leader AbuHamza Rabia killed in a drone attack,cnn,70.1455,32.9746,8
+4,2006-01-06,,Saidgai village- 115km north of Wana,North Waziristan,FATA,1,,,,,,,,3,,2,,No comments,reuters,70.1455,32.9746,1
+5,2006-01-13,3:00:00,Damadola Village,Bajaur  Agency,FATA,1,,,0,18,,,,18,,2,1,Masood Khan house was among those bombed. Wanted Al Qaeda suspect Mualana Faqir Muhammad's house was 10 km away.,dailytimes,71.5,34.6833,11
+6,2006-10-30,,Chenagai,Bajaur  Agency,FATA,1,,,0,82,,,,82,,,1,21 teenagers were killed,dawn,71.5,34.6833,19
+7,2007-04-27,,Saidgai village,North Waziristan,FATA,1,,,0,2,,2,,4,,2,,millitanta were killed while making bombs,reuters,70.1455,32.9746,26
+8,2007-06-19,10:30:00,MamiRogha- Dattakhel,North Waziristan,FATA,3,,,20,32,,,20,32,,15,1,millitanta were killed while making bombs,express,70.1455,32.9746,25
+9,2007-11-02,,Dandey darpakhel-Miranshah,North Waziristan,FATA,1,,,5,8,,2,5,10,6,12,,House was training camp and explosives store by isuregents loyal to Baitullah Mehsud,express,70.1455,32.9746,16
+10,2007-12-03,,Jani Khel,Bannu,KPK,1,,,,,,,,,,1,,No comments,dawn,70.6042,32.9861,14
+11,2008-01-29,4:00:00,Khushali village,North Waziristan,FATA,1,1,,5,7,5,7,12,13,,2,1,Dead were pro taliban militants and some of them were arabs and Central Asians,bbc,70.1455,32.9746,3
+12,2008-02-28,2:00:00,Kalosha,south Waziristan,FATA,1,,,7,8,,6,8,13,,3,,Large number of Arabs and other fireigners are living in this area for many years and doing business with local tribals,dawn,69.9,33.0333,16
+13,2008-03-16,15:35:00,Dhok Pirbagh- WANA,South Waziristan,FATA,6,,,0,0,,20,,20,5,8,,Arabs were holding meeting in house which was located half km from the station of Taliban commander Maulvi Nazir,express,69.9,33.0333,19
+14,2008-04-01,,Miran shah,North Waziristan,FATA,2,,,0,3,,,,3,,,,No comments,nawaiwaqt,70.1455,32.9746,17
+15,2008-05-14,20:00:00,Damadola Village- near Afghan border,Bajaur  Agency,FATA,2,1,,12,19,,,12,20,,,1,surrounding are is in hands of millitants linked to the pakistan taliban militants group- who have been blamed for killing of  Benazir Bhutto,express,71.5,34.6833,28
+16,2008-06-14,,Makeen,South Waziristan,FATA,3,,,0,1,,,,1,,,,this incident comes just days after an airstrike by US Led,dailytimes,69.9,33.0333,28
+17,2008-07-28,,Azam Warsak- Near Wana,South Waziristan,FATA,1,1,,,6,,,6,7,,3,1,Abu Khabab al-Masri- an Egyptian chemist regarded as one of al Qaeda's top bomb makers died in attack,dailytimes,69.9,33.0333,28
+18,2008-08-13,20:30:00,Baghar near Angoor adda- WANA,South Waziristan,FATA,1,,,10,12,,8,10,20,,,,Rehman Wazir who id reported to have been killed in the attack belonged to pro militant group led by MaulviNazir,express,69.9,33.0333,27
+19,2008-08-20,19:00:00,Zari Noori area,south Waziristan,FATA,1,,,6,8,,,6,8,,3,,No comments,google,69.9,33.0333,26
+20,2008-08-27,,Ganghikhel area,South waziristan,FATA,1,,,0,0,,,,,,4,1,the missile attack was carried out at a time when a jirga of Ahmedzai was negotiating a ceasefire between the govt and taliban,dailytimes,69.9,33.0333,26
+21,2008-08-30,16:30:00,Ganghikhel- WANA,south waziristan,FATA,1,,,4,6,,,4,6,2,4,,this area is considered to be the stronghold of pro-govt warlord Maulvi Nazeer who had expelled Uzbek militants from there.,express,69.9,33.0333,25
+23,2008-09-04,17:00:00,Muhammand Khel- Miranshah,North Waziristan,FATA,1,,,4,6,,,4,6,,5,,the house was known to host foreigners,express,70.1455,32.9746,25
+24,2008-09-05,9:00:00,Gorveek- Miranshah,North Waziristan,FATA,3,,,6,10,,,6,10,,,1,No comments,express,70.1455,32.9746,23
+25,2008-09-08,10:20:00,Dandey darpakhel-Miranshah,North Waziristan,FATA,4,,7,12,18,,,17,25,19,25,1,Arab and Uzbek militants had stayed at madrassa but it is not confirmed if anyone of them died,cnn,70.1455,32.9746,21
+26,2008-09-12,5:30:00,Tol khel,North Waziristan,FATA,1,,,12,14,,,12,14,12,14,, afghan terrorist organization- Al Badar- was using that house as an office,dailytimes,70.1455,32.9746,26
+27,2008-09-17,,Angoor Adda,south waziristan,FATA,1,,,3,5,,4,5,7,3,6,,officer told strike was the result of US and pak intelligence sharing. House belonged to the supporters of pro govt militant,dailytimes,69.9,33.0333,23
+28,2008-10-01,,Mirali,North Waziristan,FATA,1,,,4,6,,,4,6,,9,,No comments,geo,70.1455,32.9746,25
+29,2008-10-03,16:00:00,Muhammand Khel- Miranshah,North Waziristan,FATA,2,,,0,5,,16,20,21,,6,1,most of the foreigners were Arabs,express,70.1455,32.9746,25
+30,2008-10-09,22:00:00,Tapai-Miranshah,North Waziristan,FATA,1,,,3,3,3,6,6,9,,,,No comments,express,70.1455,32.9746,20
+31,2008-10-11,,Miranshah,North Waziristan,FATA,2,,5,4,4,,,4,9,,2,,No comments,dailytimes,70.1455,32.9746,23
+32,2008-10-16,11:30:00,Sam-WANA,South Waziristan,FATA,1,,,1,5,1,2,2,7,,7,,Arabs had been living in one of the house,express,69.9,33.0333,16
+33,2008-10-23,,Miranshah,North Waziristan,FATA,1,,,4,11,,,4,11,3,6,,strike was aimed at a stronghold of veteran Taliban commander- jalaluddin Jaqqani- an old friend of Osama bin Laden,nytimes,70.1455,32.9746,17
+34,2008-10-26,,wana,South Waziristan,FATA,1,,,7,20,,,7,20,,,,No comments,bbc,69.9,33.0333,16
+35,2008-10-31,,wana,south Waziristan,FATA,1,1,,15,27,,,15,28,,8,,No comments,geo,69.9,33.0333,18
+37,2008-11-07,10:00:00,kumsham-Miranshah,North Waziristan,FATA,4,7,1,8,13,,,13,16,,,,xilllage is dominated by Wazir tribes ,longwarjournal,70.1455,32.9746,17
+38,2008-11-14,1:45:00,miranshah,North Waziristan,FATA,1,,,4,6,5,9,11,13,3,7,,No comments,dawn,70.1455,32.9746,9
+39,2008-11-19,3:00:00,Janikhel,Bannu,KPK,1,,,3,4,,3,4,6,4,7,,Arab and Turkmen were in killed people,express,70.6042,32.9861,17
+40,2008-11-22,4:30:00,Miranshah,North Waziristan,FATA,1,,,4,5,,,4,5,3,6,1,Rashid Rauf died in this attack- he had close links with Al Qaida leaders,express,70.1455,32.9746,9
+41,2008-11-29,,Chashma-Miranshah,North Waziristan,FATA,1,,,0,3,,,,3,2,3,1,No comments,cnn,70.1455,32.9746,14
+42,2008-12-05,,Khushal Torikhel- Mirnshah,North Waziristan,FATA,1,,,3,6,,,3,6,2,3,,No comments,express,70.1455,32.9746,13
+43,2008-12-11,,Azam Warsak,south waziristan,FATA,1,,,6,7,,,6,7,,,,No comments,dawn,69.9,33.0333,7
+44,2008-12-15,,Tappi Tolkhel- Miranshah,North Waziristan,FATA,1,,,0,2,,,,2,,3,,it was not immediately clear if the missile was fired from drone or by US forces deployed across border,dawn,70.1455,32.9746,8
+45,2008-12-22,,Ghawakhawa- Wana,South Waziristan,FATA,1,,,0,3,,,,3,,,,local residents said that trucks were patrolling the area- mounted with heavy guns and had been firing at drones wehereever they spoted them,dailytimes,69.9,33.0333,6
+47,2009-01-01,,Karrikot- Wanna,South Waziristan,FATA,1,,5,0,0,,3,,5,,1,0,No comments,dailytimes,69.9,33.0333,7
+48,2009-01-02,10:00:00,Laddha,South Waziristan,FATA,2,,,3,4,,,3,4,,2,0,No comments,express,69.9,33.0333,7
+49,2009-01-23,17:00:00,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,,5,9,10,,8,10,22,,4,0,The drone fired three missiles within a time frame of 10 minutes,express,70.1455,32.9746,10
+50,2009-02-14,7:45:00,Laddha,South Waziristan,FATA,1,,2,30,33,,,30,35,2,6,1,The missile struck three compounds one of which was where Baitullah Mehsud and his fighters sometimes gather,express,69.9,33.0333,4
+51,2009-02-16,10:00:00,Kurram,Khyber,FATA,3,,,0,22,,8,,30,3,20,0,The taliban were holding meeting at the time of attack,express,68.50235,25.67848,20
+52,2009-03-01,,Sararogha,South Waziristan,FATA,2,,,8,8,,4,8,12,,14,0,The area under attack was the Taliban sanctuary,express,69.9,33.0333,15
+53,2009-03-12,,Barjo ,Kurram Agency,FATA,1,,,14,25,,,14,25,15,50,0,No high profile targets killed,dailytimes,69.9667,33.8167,15
+54,2009-03-15,22:30:00,Bannu,Bannu,KPK,1,,,1,3,1,2,2,5,,,0,Five people were killed in the same area last November,express,70.6042,32.9861,19
+55,2009-03-25,17:00:00,Makin,South Waziristan,FATA,1,7,,0,7,,4,7,8,,,0,No high value targets were believed to have died,express,69.9,33.0333,13
+56,2009-03-26,,Mir Ali (Near Afghan Border),North Waziristan,FATA,1,,,4,5,,,4,5,,4,1,The strike is second in as many days by the drones,indiatimes,70.1455,32.9746,13
+57,2009-04-01,,Khadezai,Orakzai,FATA,1,,,12,14,,,12,14,15,18,0,It was the first such strike in Orakzai,express,69.8597,32.6674,18
+58,2009-04-04,19:45:00,Miran shah,North Waziristan,FATA,2,,,8,13,,,8,13,,4,0,No comments,geo,70.1455,32.9746,16
+59,2009-04-08,,Gangi Khel- Wana,South Waziristan,FATA,1,,3,1,3,,,3,4,4,5,0,This attack comes the day after Pakistan told visitin US envoys that drone attacks fuelled extremism in the nuclear-armed nation and flagged up red lines in Pakistan's cooperation with washington's war against extremists.,express,69.9,33.0333,12
+60,2009-04-19,,Gangi Khel- Wana,South Waziristan,FATA,1,,,0,3,,,,3,,5,1,It comes a day after a suicide car bomber killed 27 people,bbc,69.9,33.0333,21
+61,2009-04-29,20:15:00,KaniGaram-Ladha,South Waziristan,FATA,1,,,6,8,,2,6,10,2,4,0,No comments,express,69.9,33.0333,24
+62,2009-05-09,10:00:00,Sararogha,South Waziristan,FATA,1,,,6,10,,,6,10,3,16,0,taliban commander-Betullah mehsud threatened to avenge missile strikes with attacks across the country and in US,express,69.9,33.0333,19
+63,2009-05-12,4:00:00,Sra Khawra,South Waziristan,FATA,1,,,8,10,,,8,10,,4,1,this area is the stronghold of Baityullah mehsud,express,69.9,33.0333,23
+64,2009-05-16,8:00:00,Khaisoor Area,North Waziristan,FATA,1,2,25,0,25,,4,25,29,,6,0,Hafiz Gul Bahadar; the taleban commander was running madrassa as training markaz,nytimes,70.1455,32.9746,23
+65,2009-06-14,,Laddha,South Waziristan,FATA,1,,,3,5,,,3,5,,,0,No comments,dawn,69.9,33.0333,19
+66,2009-06-18,10:00:00,Shah Alam- Wana,South Waziristan,FATA,1,,,0,9,,,,9,,8,0,All the dead are said to be local Taleban fighters loyal to commander Moulvi Nazir.,bbc,69.9,33.0333,18
+67,2009-06-23,,wana,South Waziristan,FATA,1,,,15,50,,,15,50,,,0,No comments,dawn,69.9,33.0333,22
+68,2009-07-03,6:30:00,KokatKhel,South Waziristan,FATA,1,,,13,17,,,13,17,25,30,0,people killed and wounded were taliba fighters,geo,69.9,33.0333,21
+69,2009-07-07,10:00:00,Laddha,South Waziristan,FATA,1,,,12,12,,4,12,16,,4,0,area is controlled by Baitullah Mehsud,express,69.9,33.0333,26
+70,2009-07-08,,Laddha,South Waziristan,FATA,1,,,25,60,,,25,60,5,10,0,Mulana Fazlullah- Taliban commander was reported to be injured,geo,69.9,33.0333,27
+71,2009-07-10,,PaindaKhel,South Waziristan,FATA,1,,,3,8,,,3,8,,,0,No comments,dailytimes,69.9,33.0333,24
+72,2009-07-17,16:00:00,Miran shah,South Waziristan,FATA,1,,5,0,4,,,4,5,,4,0,region is known as heaven of Taliban and Al-Qaida millitants,express,69.9,33.0333,27
+73,2009-08-05,,Laddha,South Waziristan,FATA,1,,1,1,2,,,1,3,3,5,1,Baitullah mehsud's wife got died in the attack,express,69.9,33.0333,27
+74,2009-08-11,,Laddha,South Waziristan,FATA,1,,10,4,10,,,10,14,5,10,1,No comments,express,69.9,33.0333,26
+75,2009-08-21,,Miran shah,South Waziristan,FATA,1,,,9,13,,,9,13,,3,1,No comments,express,69.9,33.0333,24
+76,2009-08-27,15:50:00,Laddha,South Waziristan,FATA,1,,,0,10,,,,10,5,7,0,No comments,express,69.9,33.0333,25
+77,2009-09-08,23:45:00,Mir Ali ,South Waziristan,FATA,1,,,3,5,,5,5,8,,6,0,two senior Al-qaida leader are among those thought to have been killed,express,69.9,33.0333,22
+78,2009-09-09,,Miran shah,South Waziristan,FATA,1,,10,0,0,,,,10,,,0,"it wass not immidiately clear that any ""high value targets"" were present in the area at that time",express,69.9,33.0333,21
+79,2009-09-14,6:05:00,mir ali,South Waziristan,FATA,1,,,4,6,,2,4,8,1,5,0,No comments,express,69.9,33.0333,23
+80,2009-09-24,23:00:00,Miran shah,South Waziristan,FATA,1,,10,2,10,,,10,12,2,3,0,all dead belong to Haqqani's network,express,69.9,33.0333,25
+81,2009-09-29,,Sararogha,South Waziristan,FATA,1,,,5,12,,,5,12,6,8,0,it is not known if irfan was among dead,express,69.9,33.0333,23
+83,2009-09-30,,Miran shah,North Waziristan,FATA,1,,,0,6,,,,6,,,0,No comments,aljazeera,70.1455,32.9746,23
+84,2009-10-15,3:40:00,Miran shah,North Waziristan,FATA,1,,4,4,6,,,4,10,,9,1,High profile insurgent commander-Jalaluddin Haqqani is thought to be active in this area,express,70.1455,32.9746,15
+85,2009-10-21,,Spalga,North Waziristan,FATA,1,,,3,5,,,3,5,,,0,top Al-qaida explosive expert has been killed in the attack,theaustralian,70.1455,32.9746,12
+86,2009-10-24,11:30:00,Damadola,Bajaur  Agency,FATA,1,,,16,22,,11,22,27,,8,0,drone pounded a Taliban and Al-qaeda planning session,dailytimes,71.5,34.6833,20
+87,2009-11-05,1:30:00,mir ali,North Waziristan,FATA,1,,,4,6,,,4,6,,8,0,No comments,dailytimes,70.1455,32.9746,15
+88,2009-11-18,23:00:00,Mir Ali,North Waziristan,FATA,1,,,4,5,,,4,5,,4,0,No comments,express,70.1455,32.9746,6
+89,2009-11-20,,Mir Ali,North Waziristan,FATA,1,,8,2,8,,,8,10,,2,0,No comments,express,70.1455,32.9746,9
+90,2009-12-08,6:20:00,Spalga,North Waziristan,FATA,2,,3,0,0,,,,3,,3,0,Identities of killed taliban are not confirmed,bbc,70.1455,32.9746,4
+91,2009-12-10,,Laddha,South Waziristan,FATA,1,4,2,1,6,,3,6,10,,8,0,it is not known if senior Al-qaeda or taliban commanders were among killed,longwarjournal,69.9,33.0333,4
+92,2009-12-17,,Datta Khel,North Waziristan,FATA,1,,,2,2,,,2,2,,,0,No comments,tv,70.1455,32.9746,4
+93,2009-12-18,3:50:00,Datta Khel,North Waziristan,FATA,1,,2,2,6,,,2,8,,8,1,No comments,express,70.1455,32.9746,3
+95,2009-12-26,19:00:00,Miran shah,North Waziristan,FATA,1,,,3,10,,3,3,13,2,3,0,compound was used by local millitamts attached to Haqqani's network,express,70.1455,32.9746,4
+96,2009-12-31,,Miran shah,North Waziristan,FATA,2,,,3,4,,,3,4,,2,0,No comments,express,70.1455,32.9746,6
+97,2010-01-01,8:50:00,Nawana,North Waziristan,FATA,2,,,0,2,,,,2,,3,,No comments,tv,70.1455,32.9746,5
+98,2010-01-03,20:30:00,Mosaki village-near Mir Ali,North Waziristan,FATA,2,,,0,2,,3,,5,3,4,,Arabs were among the dead,tv,70.1455,32.9746,5
+99,2010-01-06,16:00:00,Sanzalai-Datta Khel,North Waziristan,FATA,1,,,13,25,,,13,25,,6,1,foreign militants and Al-qaeda people were among the dead,tv,70.1455,32.9746,7
+100,2010-01-08,10:00:00,Tappi Village,North Waziristan,FATA,1,,4,4,6,,,4,10,2,9,0,house was owned by a local militant,express,70.1455,32.9746,5
+101,2010-01-09,11:00:00,Ismail Khan,North Waziristan,FATA,1,,,3,4,,,3,4,,6,0,identiy of the militants was not known,express,70.1455,32.9746,4
+102,2010-01-14,6:30:00,Shakoi,South waziristan,FATA,1,,10,5,10,,,10,15,,7,0,Us targeted TTP chief Hakeemullah Mehsud-some say he was dead some say not dead,express,69.9,33.0333,4
+103,2010-01-15,,Mir Ali,South waziristan,FATA,1,,11,6,6,,3,6,20,,8,0,Rumors around the death of Mehsud,express,69.9,33.0333,6
+104,2010-01-17,,shaktoi ,South Waziristan,FATA,1,,,15,,,,15,20,,,,No comments,bbc,69.9,33.0333,6
+105,2010-01-19,18:30:00,Booya Village,North Waziristan,FATA,1,,6,0,5,,,5,6,,4,0,this area is considered as strong hold of Taiban and Al-Qaeda militants,dailytimes,70.1455,32.9746,7
+106,2010-01-29,,Mohammad Khel,North Waziristan,FATA,3,,,5,9,,6,5,15,,4,0,it was an unsuccessful attempt to kill Taliban chief Hakimullah mehsud,foxnews,70.1455,32.9746,2
+107,2010-02-02,17:30:00,Datta Khel- Degan- Kamar,North Waziristan,FATA,1,,16,1,16,,,16,17,,8,0,No comments,express,70.1455,32.9746,2
+108,2010-02-14,3:30:00,Mir Ali,North Waziristan,FATA,1,,,4,7,,,4,7,3,4,0,foreigners died were posibly Uzbeks,express,70.1455,32.9746,4
+109,2010-02-15,14:00:00,Tappi village- 15 km east of Miranshah,North Waziristan,FATA,1,,,,,,,,4,,,,No comments,dawn,70.1455,32.9746,-1
+110,2010-02-17,,Tappi Village,North Waziristan,FATA,1,,3,1,3,,,3,4,,2,0,house was being used as guesthouse for visiing taliban operating across he border,express,70.1455,32.9746,1
+111,2010-02-18,,Dande Darpakhel,North Waziristan,FATA,1,,4,,,,,1,4,,,0,Haqqani's younger brother was killed in the attack,nytimes,70.1455,32.9746,6
+112,2010-02-24,,Darga Mandi,North Waziristan,FATA,1,,,6,8,,3,8,9,,6,0,house was owned by Haqqani's network,express,70.1455,32.9746,9
+113,2010-03-08,,miran shah,North Waziristan,FATA,1,,5,0,0,,,,5,3,4,0,millitants were gathered it the compound,nawaiwaqt,70.1455,32.9746,10
+114,2010-03-10,21:20:00,miran shah,North Waziristan,FATA,1,,8,6,12,,,12,14,,5,0,it was not immediately clear if high Value targets wre present there or not,express,70.1455,32.9746,13
+115,2010-03-16,12:45:00,datta khel,North Waziristan,FATA,1,,10,1,8,,,8,11,2,7,0,No comments,dailytimes,70.1455,32.9746,16
+117,2010-03-17,,Datta khel,North Waziristan,FATA,1,,,5,7,,,5,7,,2,0,No comments,bbc,70.1455,32.9746,17
+119,2010-03-21,17:00:00,Datta Khel,North Waziristan,FATA,1,,,0,8,,,,8,,4,0,No comments,express,70.1455,32.9746,19
+120,2010-03-23,21:00:00,miran shah,North Waziristan,FATA,1,,,0,6,,,,6,2,3,0,No comments,dailytimes,70.1455,32.9746,17
+121,2010-03-27,,Mir Ali,North Waziristan,FATA,1,,,0,4,,,,4,,5,0,houses were used by terrorists as a hideouts,dailytimes,70.1455,32.9746,15
+122,2010-03-30,23:00:00,Tappi Area,North Waziristan,FATA,1,,,3,5,,,3,5,,,0,No comments,express,70.1455,32.9746,16
+123,2010-04-12,21:30:00,Datta Khel,North Waziristan,FATA,1,,,5,10,,,5,10,,,0,the compund was owned by taliban commander Tariq Khan,express,70.1455,32.9746,18
+124,2010-04-14,19:00:00,Datta Khel,North Waziristan,FATA,1,,,3,5,,,3,5,3,4,0,arab militants were among dead and injured,tv,70.1455,32.9746,19
+125,2010-04-16,,Toorikhel,North Waziristan,FATA,1,,6,0,0,,,,6,22,25,0,second hit was made during taliban' attemp to recover the dead and wounded,nawaiwaqt,70.1455,32.9746,20
+126,2010-04-24,21:00:00,miran shah,North Waziristan,FATA,1,,,7,9,,,7,9,,8,0,nationalities f dead Taliban were not immediately clear,nawaiwaqt,70.1455,32.9746,19
+127,2010-04-26,,Khushali Toorikhel,North Waziristan,FATA,1,,6,3,5,,,5,9,4,10,0,compound was owned by  followers of a local Taliban commander Haleen Khan,nawaiwaqt,70.1455,32.9746,19
+128,2010-05-03,15:30:00,Machi Khel-Mir Ali,North Waziristan,FATA,1,,,4,7,,,4,7,,2,0,The attack came just after leader Tehreek-e-Taleban chief vowed to attack US in two videos,express,70.1455,32.9746,22
+129,2010-05-09,8:00:00,Inzarkas in Datta Khel ,North Waziristan,FATA,1,,,10,11,,,10,11,3,4,0,No comments,express,70.1455,32.9746,19
+130,2010-05-11,6:00:00,Doga- Datta Khel,North Waziristan,FATA,1,,,14,15,,,14,15,4,8,0,No comments,express,70.1455,32.9746,19
+132,2010-05-15,,Tirah valley,Khyber Agency,FATA,1,,,13,15,,,13,15,4,9,0,Attacked because of the presence of Taliban,express,71.1481,34.0983,30
+133,2010-05-21,,Muhammad Khel,North Waziristan,FATA,1,,6,,4,,,6,10,,,1,No comments,express,70.1455,32.9746,24
+134,2010-05-28,12:00:00,Mizai Narai,South Waziristan,FATA,1,,,8,11,,,8,11,2,4,0,This house belonged to Omer Khitab believed to be the close associate of Moulvi Nazir,express,69.9,33.0333,22
+135,2010-06-10,,Khadi village,North Waziristan,FATA,1,,,0,3,,,,3,,,0,No comments,tv,70.1455,32.9746,21
+136,2010-06-11,7:30:00,Bahadar Khel village- Dattakhel,North Waziristan,FATA,1,,,11,12,,3,11,15,7,12,0,area is a strong hold of two groups loyal to Taliban-linked warloards Hafiz Gul Bahadur and Maulvi Sadiq Nor,dawn,70.1455,32.9746,23
+137,2010-06-19,9:30:00,Haider Khel-Mir Ali,North Waziristan,FATA,1,,,11,16,,,11,16,3,19,0,The missile attack took place after Richard Holbrooke landed in Pakistan,aljazeera,70.1455,32.9746,27
+138,2010-06-26,,Khushali khel village- Mir Ali,North Waziristan,FATA,1,,,2,4,,,2,4,1,3,0,it was not clear if killed or wounded militants are High Value targets,tv,70.1455,32.9746,25
+139,2010-06-27,15:30:00,Tabbi Tolkhel-4 km north of MiranShah,North Waziristan,FATA,1,,6,0,5,,,5,6,,2,0,Identities of those killed in the attack were unkown,dailytimes,70.1455,32.9746,27
+140,2010-06-29,7:00:00,Kari Kot,South Waziristan,FATA,2,1,,6,7,,,6,8,,,0,No comments,tv,69.9,33.0333,25
+141,2010-07-15,,Misermada Khel- MiranShah,North Waziristan,FATA,2,,,0,7,,,,7,,,0,Foreign fighters linked to Al-Qaida are known to be in the this area,bbc,70.1455,32.9746,26
+142,2010-07-24,,Dwasarak- 40km west of Wana,South Waziristan,FATA,1,,,16,18,,,16,18,,,0,Officials said that militants belonged to local commander Moulana Halimullah,tv,69.9,33.0333,25
+143,2010-07-25,,shaktoi,South Waziristan,FATA,1,,,3,6,,,3,6,4,5,1,compound was a old house of late Tehkek-e-Taliban chief Baitullah Mehsud,dawn,69.9,33.0333,26
+146,2010-08-14,9:30:00,Issori village- Mir Ali,North Waziristan,FATA,1,,,8,12,,5,12,13,4,6,0,No comments,express,70.1455,32.9746,25
+147,2010-08-21,,KutabKhel- 3km south of MiranShah,North Waziristan,FATA,1,,,4,6,,,4,6,,,0,No comments,express,70.1455,32.9746,28
+148,2010-08-23,,Danday Darpa Khel- 5km from Miran Shah,North Waziristan,FATA,1,,,5,10,,2,5,12,5,15,0,nationalities of foreigners are not known yet,geo,70.1455,32.9746,27
+150,2010-08-27,11:30:00,Shaheedano- Badshah Kot- Talokonj,Kurram Agency,FATA,1,,,6,9,,,6,9,,,,No comments,thenews,69.9667,33.8167,24
+151,2010-09-03,,MiranShah,North Waziristan,FATA,1,,,6,9,,,6,9,3,8,0,nationalities of killed forigners are not known,express,70.1455,32.9746,26
+153,2010-09-06,,Khar Qamar,North Waziristan,FATA,1,,,0,5,,,,5,,4,0,No comments,express,70.1455,32.9746,24
+154,2010-09-08,6:30:00,Danday darpakhel- 3 km west of miranshah bazar,North Waziristan,FATA,1,,,6,10,,,6,10,,2,1,Afghan commander jaluddin (Haqqani's network) was using this place,express,70.1455,32.9746,24
+157,2010-09-09,4:30:00,Machus Camp- Miran shah,North Waziristan,FATA,1,,,4,6,,,4,6,,5,,No comments,dawn,70.1455,32.9746,23
+158,2010-09-12,6:15:00,Newey Adda village in Datta Khel- near Miranshah,North Waziristan,FATA,1,,,3,4,,2,4,5,,2,0,No comments,express,70.1455,32.9746,23
+159,2010-09-14,6:00:00,Bush Narai,North Waziristan,FATA,1,,,8,12,,,8,12,,3,0,People killed were from Hafiz Gul Bahadar's Group,express,70.1455,32.9746,19
+161,2010-09-15,16:30:00,Danday Darpa Khel- Miran Shah,North Waziristan,FATA,1,,,0,12,,14,12,14,,,0,No comments,dawn,70.1455,32.9746,21
+163,2010-09-19,,Datta Khel,North Waziristan,FATA,1,,,0,5,,,,5,,3,0,No comments,express,70.1455,32.9746,17
+164,2010-09-20,,Datta Khel,North Waziristan,FATA,1,,,5,9,,,5,9,3,4,0,Haqqani networks dominates the area,express,70.1455,32.9746,19
+165,2010-09-21,17:30:00,Khund,South Waziristan,FATA,1,,,7,8,,,7,8,,4,0,No comments,express,69.9,33.0333,18
+168,2010-09-25,,Datta Khel,North Waziristan,FATA,1,,,0,4,,,,4,,4,0,No comments,express,70.1455,32.9746,20
+169,2010-09-26,,Manada khel- Darmano road- and Lawar Mandi in Datta Khel,North Waziristan,FATA,1,,,9,12,,,9,12,,4,0,this area known as the hub for taliban and al-qaida linked militants,express,70.1455,32.9746,19
+170,2010-09-27,,Khshali ToorKhel- southeast of Miran Shah,North Waziristan,FATA,1,,,0,4,,,,4,,,0,No comments,express,70.1455,32.9746,20
+171,2010-09-28,,Zeba Village-Wana,South Waziristan,FATA,1,,,0,4,,,,4,,,0,No comments,tv,69.9,33.0333,19
+172,2010-10-02,10:00:00,Kasra madda khel-and  Tirmara-in Datta khel,North Waziristan,FATA,1,,,14,17,,4,17,18,3,4,0,25 attacks in 29 days,express,70.1455,32.9746,20
+173,2010-10-04,12:00:00,Mir Ali,North Waziristan,FATA,1,,,3,1,5,8,8,9,,2,0,strike came after US and britian issued warnings of an increased risk of terrorist attacks in europe,express,70.1455,32.9746,22
+174,2010-10-06,17:00:00,MiranShah Bazaar,North Waziristan,FATA,1,,,5,6,,,5,6,,2,0,Targeted the people of hafiz gul bahadar- It was said that these people were planning attacks like mumbai in europe cities,express,70.1455,32.9746,20
+176,2010-10-07,17:40:00,Khaisoori- 40km east of Miranshah,North Waziristan,FATA,1,,,0,2,,2,,4,2,3,0,No comments,express,70.1455,32.9746,19
+177,2010-10-08,17:35:00,MiranShah,North Waziristan,FATA,1,,,9,10,,,9,10,,,0,No comments,com,70.1455,32.9746,19
+178,2010-10-10,11:00:00,Shewa istrict- spinwan tehsil,North Waziristan,FATA,1,,,6,8,,,6,8,3,5,0,No comments,express,70.1455,32.9746,18
+179,2010-10-13,9:00:00,Inzarkas in Datta Khel ,North Waziristan,FATA,1,,,2,7,3,4,5,11,,,0,foreigners were said to be from Turkmenistan,express,70.1455,32.9746,19
+180,2010-10-15,,machikhel area- near Mirali,North Waziristan,FATA,1,,,3,6,,,3,6,,2,0,No comments,express,70.1455,32.9746,21
+182,2010-10-18,,Sunzali area of Dattakhel,North Waziristan,FATA,1,,,3,6,,4,6,7,1,5,0,locals said some of them were from turkmenistan,express,70.1455,32.9746,19
+183,2010-10-27,3:30:00,Spinwam. Mir Ali,North Waziristan,FATA,1,,,2,5,,,2,5,,1,0,No comments,tv,70.1455,32.9746,14
+185,2010-10-28,9:00:00,MiranShah,North Waziristan,FATA,1,,,4,5,,3,5,7,,2,0,No comments,express,70.1455,32.9746,14
+186,2010-11-01,9:30:00,Haider Khel- Mir Ali,North Waziristan,FATA,1,,,5,6,,,5,6,,,0,house was a hub of local militants movement,express,70.1455,32.9746,15
+187,2010-11-03,,Anzer village near miranshah- eso khel village of Mir ali- Poikhel village of datta khel,North Waziristan,FATA,1,,,7,12,4,6,11,18,1,4,0,car was carrying arms and ammunition,com,70.1455,32.9746,15
+188,2010-11-07,,Dandi saidgai- miramshah,North Waziristan,FATA,1,,,5,9,,,5,9,,,0,No comments,,70.1455,32.9746,14
+190,2010-11-11,,Gulli khel in Ghulam Khan ,North Waziristan,FATA,1,,,6,8,,,6,8,5,6,0,No comments,tv,70.1455,32.9746,13
+191,2010-11-13,,MiranShah,North Waziristan,FATA,1,,,4,5,,,4,5,,,0,No comments,tv,70.1455,32.9746,10
+192,2010-11-16,9:00:00,Ghulam Khan ,North Waziristan,FATA,1,,,0,16,,4,,20,4,7,0,No comments,express,70.1455,32.9746,10
+193,2010-11-19,12:00:00,Naurak village- 15 km east of Miranshah,North Waziristan,FATA,1,,,3,4,,,3,4,,2,0,No comments,dawn,70.1455,32.9746,11
+194,2010-11-21,,Khadi village,North Waziristan,FATA,1,,,5,9,,,5,9,,4,0,Obama administration has dramatically increased US drone strikes,express,70.1455,32.9746,10
+195,2010-11-22,,Khewsar Village- Miran shah,North Waziristan,FATA,1,,,4,6,,,4,6,,4,0,No comments,dailytimes,70.1455,32.9746,9
+196,2010-11-26,,Pir Kelay,North Waziristan,FATA,1,,,2,3,,2,3,4,,4,0,No comments,tv,70.1455,32.9746,9
+197,2010-11-28,,Hasaan Khel- 30 km east of Miran Shah,North Waziristan,FATA,1,,,3,4,,,3,4,,,0,No comments,tv,70.1455,32.9746,7
+198,2010-12-06,,Khushali turikhel,North Waziristan,FATA,1,,,5,7,,,5,7,,3,0,No comments,tv,70.1455,32.9746,6
+199,2010-12-10,17:45:00,Khadar Khel,North Waziristan,FATA,1,,,0,4,,,,4,,,0,No comments,cnn,70.1455,32.9746,7
+200,2010-12-14,,Spalga village- 15 km south of Miranshah,North Waziristan,FATA,1,,,0,4,,,,4,,,0,No comments,tv,70.1455,32.9746,8
+201,2010-12-16,,tirah valley ,Khyber Agency,FATA,1,,2,0,5,,,,7,,,0,swati taliban commander was also killed,dailytimes,71.1481,34.0983,11
+202,2010-12-17,,tirah valley ,Khyber Agency,FATA,4,,,21,50,,,21,50,,,0,attacks are increased under the presidency of OBAMA,cnn,71.1481,34.0983,10
+203,2010-12-27,10:00:00,shera tala/and  Machikhel,North Waziristan,FATA,6,,,18,25,,,18,25,4,7,0,there were reports that zahid mandev and qari barkatullah may be killed,thenews,70.1455,32.9746,4
+204,2010-12-28,10:00:00,Ghulam Khan ,North Waziristan,FATA,1,,,5,22,,,5,22,,8,0,it was said that these people were from haqqaani group,tv,70.1455,32.9746,3
+205,2010-12-31,23:30:00,Ghulam Khan ,North Waziristan,FATA,1,,,3,4,,,3,4,,8,0,No comments,tv,70.1455,32.9746,5
+206,2011-01-01,7:30:00,Madi Khel,North Waziristan,FATA,1,,,6,9,,,6,9,,5,0,No comments,thenews,70.1455,32.9746,5
+209,2011-01-07,,DattaKhel,North Waziristan,FATA,1,,,4,6,,,4,6,,4,0,Residential compound and car have been targeted,dawn,70.1455,32.9746,6
+210,2011-01-12,9:30:00,Haider Khel- Mir Ali,North Waziristan,FATA,1,,,1,3,,3,3,4,,2,0,there was haven alqaida and taliban,tv,70.1455,32.9746,6
+211,2011-01-18,23:00:00,DattaKhel,North Waziristan,FATA,1,,,4,7,,,4,7,,3,0,2 missiles were fired on a house,armytimes,70.1455,32.9746,4
+212,2011-01-23,,Datta khel,North Waziristan,FATA,1,,,3,4,,,3,4,,,0,most of the localbusiness were shut down due to protest,tv,70.1455,32.9746,3
+215,2011-02-20,2:00:00,Azam warsak,South Waziristan,FATA,1,,,5,6,,,5,6,,,0,it was the first drone strike after the US consular Raymond Davis was arrested for allegedly killing two Pakistani's in Lahore,,69.9,33.0333,2
+216,2011-02-21,23:15:00,Tappi village- Miranshah,North Waziristan,FATA,1,,,5,10,,,5,10,,4,0,No comments,,70.1455,32.9746,2
+218,2011-02-24,,Danday Darpa Khel- 30km west of miranshah,North Waziristan,FATA,3,,,0,0,,2,,2,,,0,Turkmens militants were traveling in the vehicle,bbc,70.1455,32.9746,4
+220,2011-03-08,12:00:00,Landi Dag area- 7 km south of Wana bazaar,South Waziristan,FATA,1,,,0,5,,,,5,,2,0,killed were militants,,69.9,33.0333,5
+222,2011-03-11,,Khaisor town- 30km north of Miranshah,North Waziristan,FATA,1,,,0,3,,,,3,,,0,militants were in the vehicle,com,70.1455,32.9746,10
+224,2011-03-13,,Esha check post- spalga village- 15km northwest of Miranshah,North Waziristan,FATA,1,,,4,6,,,4,6,,5,0,No comments,,70.1455,32.9746,14
+226,2011-03-14,7:30:00,Tappi village- miranshah razmak road,North Waziristan,FATA,1,,,3,5,,,3,5,0,0,0,No comments,,70.1455,32.9746,16
+227,2011-03-16,,Amboor shega area in Dattakhel tehsil,North Waziristan,FATA,1,,,5,6,,,5,6,,0,0,No comments,,70.1455,32.9746,16
+228,2011-03-17,,Nevi Adda Shega area,North Waziristan,FATA,1,,,40,41,,,40,41,8,15,1,Malik's and Taliban were among dead. Taliban's senior commander Sharabat was leading the jirga,,70.1455,32.9746,16
+229,2011-04-13,,near Angoor adda,South Waziristan,FATA,1,6,,1,6,,,6,7,2,4,0,Only a day after a four hour meeting between the heads of ISI and the central intellegence agency of the US held to reset strained ties between the two agencies,,69.9,33.0333,15
+230,2011-04-22,5:45:00,Spinam- mirali tall road- Hassan khel area,North Waziristan,FATA,1,,,23,25,,,23,25,5,8,1,No comments,,70.1455,32.9746,18
+231,2011-05-06,,Data khel tehsil- Dowatoui area,North Waziristan,FATA,1,,,13,18,,,13,18,,4,0,it was the first drone attack since US NAVY  SEAL's killed Al Qaeda chief Usama Bin Ladin. The drone attack occurred hours after the strong worded ISPR statement warned the US of Dire consequences in case Pakistan's sovereignty os violated again. ,,70.1455,32.9746,20
+232,2011-05-10,,Angoor Adda,South Waziristan,FATA,1,,,2,3,,3,3,5,,7,0,it was the second attack after the death of Usama Bin Ladin,,69.9,33.0333,22
+233,2011-05-12,11:00:00,Paikhel Mazdok area- Dattakhel Tehsil,North Waziristan,FATA,1,,,,8,,,,8,,,0,The attack coincided with US secretary of state Hillary Clinton's designation of Badruddin Haqqani network- as terrorist. ,,70.1455,32.9746,22
+234,2011-05-13,,Kharkamar area- 40km west of miramshsh,North Waziristan,FATA,1,,,3,6,,,3,6,,,,No comments,,70.1455,32.9746,21
+235,2011-05-16,,Khoshi Torikhel area of Tehsil Mirali,North Waziristan,FATA,1,,,,6,,,,6,,,0,The attacks came three days after the govt had threatened to stop supplies of Nato and Coslition forces in Afghanistan in the event of such strikes taking place in futue,,70.1455,32.9746,25
+237,2011-05-20,18:00:00,Sarbr area- Razmak miranshah road- near Esha check post,North Waziristan,FATA,1,,,,6,,,,6,,,0,No comments,,70.1455,32.9746,25
+238,2011-05-23,,machikhel area- near Mirali,North Waziristan,FATA,1,,,,7,,,,7,,,0,No comments,,70.1455,32.9746,24
+239,2011-06-03,23:45:00,Ghwakhwa area- 10km west of wana,South Waziristan,FATA,1,,,,5,,,,5,,,0,Military launched an operation at this place two years ago.,,69.9,33.0333,21
+240,2011-06-06,,Shalam Raghzai 10 km northwest of wana,South Waziristan,FATA,1,,,,,,,7,8,,2,,No comments,dawn,69.9,33.0333,25
+243,2011-06-08,,Shwal Tehsil- Zoi narry area,North Waziristan,FATA,1,,,23,24,,,23,24,,,0,Militants of Hafiz gul bahadur group- associated with Haqqani network- was the main target. Local residents described the compound as a major militants training center.,,70.1455,32.9746,27
+244,2011-06-15,,Wana,South Waziristan,FATA,1,,,,7,,,,7,,,0,Compound belonged to a group headed by Mulvi Nazir that crosses the afghan border to attack US troops in Afghanistan.,,69.9,33.0333,27
+247,2011-06-20,,Khrdand area,Lower Kurram Agency,FATA,1,,,,3,,9,11,12,,8,0,This was the first drone attack carried out outside the north and south waziristan this year. Foreigners died were afghan. And a militant commander from Khost province of Afghanistan was among dead.,,69.9667,33.8167,28
+248,2011-06-27,,Ghalmandi Panga- Bray Nishtar area near the border with Afghanistan and North Waziristan,North Waziristan,FATA,1,,,3,8,,,3,8,,2,0,Compound was being used by local militants afiliated with Hakimullah Mehsud's TTP  Group,reuters,70.1455,32.9746,27
+250,2011-07-05,,Guest house in Mirali- about 25 KM east of miranshah,North Waziristan,FATA,1,,,3,4,,,3,4,,5,0,No comments,dailytimes,70.1455,32.9746,25
+251,2011-07-11,2:00:00,Gorwaik area of dattakhel town,North Waziristan,FATA,1,,,10,12,,,10,12,,6,0,No comments,google,70.1455,32.9746,25
+252,2011-07-12,,Malik shahi village in Birmal Tehsil,South Waziristan,FATA,1,,,5,13,,,5,13,,,0,No comments,cnn,69.9,33.0333,26
+255,2011-08-01,,Azamwarsak,South Waziristan,FATA,1,,,4,6,,,4,6,,,0,No comments,dawn,69.9,33.0333,25
+256,2011-08-02,,Qutub Khel village- 5km  east of miranshah,North Waziristan,FATA,1,,,,4,,,,4,,,0,No comments,dailytimes,70.1455,32.9746,26
+257,2011-08-10,,North western tribal belt along the afghan border,North Waziristan,FATA,2,,,,,,21,18,21,,,0,No comments,guardian,70.1455,32.9746,26
+258,2011-08-16,,Miranshah Market,North Waziristan,FATA,2,,,,,,,,4,,,1,US says the region provoides sanctuary to al-Qaeda and Taliban insurgents who are involved in attacks on Nato forces in Afghanistan,bbc,70.1455,32.9746,23
+259,2011-08-19,,Sheen Warsik in South Waziristan,South Waziristan,FATA,1,,,,,,,2,4,,,0,No comments,cnn,69.9,33.0333,23
+260,2011-08-22,,Norak area of North Waziristan ,North Waziristan,FATA,1,,,,,,,4,5,,,0,No comments,cnn,70.1455,32.9746,27
+262,2011-09-11,,HisoKhel Village,North Waziristan,FATA,1,,,,4,,,,4,,,0,No comments,dailytimes,70.1455,32.9746,25
+263,2011-09-23,,Khushali Area- Mir Ali,North Waziristan,FATA,1,,,3,5,,,3,5,,4,0,No comments,dawn,70.1455,32.9746,19
+264,2011-09-27,22:45:00,Azam warsak,South Waziristan,FATA,1,,4,,2,,,2,4,,4,,No comments,cnn,69.9,33.0333,22
+265,2011-09-30,,Baghar,South Waziristan,FATA,1,,,,,,,3,4,,,,No comments,com,69.9,33.0333,20
+266,2011-10-13,,Danda Darpakhel,North Waziristan,FATA,1,,6,,,,,4,6,,6,,No comments,dawn,70.1455,32.9746,15
+267,2011-10-27,,Azam Warsak,South Waziristan,FATA,1,,6,,,,,4,6,3,4,,No comments,dawn,69.9,33.0333,14
+268,2011-10-30,,Datta Khel,North Waziristan,FATA,1,,,4,6,,,4,6,,2,,No comments,dawn,70.1455,32.9746,14
+269,2011-11-03,,Darpakhel Sarai,North Waziristan,FATA,1,,3,,,,,2,3,,3,,No comments,com,70.1455,32.9746,13
+270,2011-11-15,,Miranshah,North Waziristan,FATA,1,,6,,,,,,6,2,3,,No comments,dawn,70.1455,32.9746,13
+271,2011-11-16,,Babar Ghar- Sararogha,South Waziristan,FATA,1,,22,,,,,17,22,,6,,No comments,dawn,69.9,33.0333,12
+272,2011-11-17,,Shawal,North Waziristan,FATA,1,,7,,,,,,7,,,,No comments,dawn,70.1455,32.9746,12
+273,2012-01-10,,Miranshah,North Waziristan,FATA,1,,,,,,,,4,,,,No comments,telegraph,70.1455,32.9746,1
+275,2011-10-31,,Naurak mirali,North Waziristan,FATA,1,,,2,4,,,2,4,,5,,No comments,cnn,70.1455,32.9746,14
+281,2012-01-12,19:00:00,Dogga village- Datta khel tehsil- 45 km west of miranshah,North Waziristan,FATA,1,,,,,,6,4,6,,2,0,The strike came two days after a similar attack killed four militants in north waziristan,com,70.1455,32.9746,3
+282,2012-01-23,,Muhammad khel village,North Waziristan,FATA,1,,,,2,,,,2,,,0,No comments,thenews,70.1455,32.9746,-3
+284,2012-02-08,7:00:00,Tappi- 10KM southeast of Miranshah,North Waziristan,FATA,1,,,,10,,,,10,,,0,No comments,bbc,70.1455,32.9746,-3
+285,2012-02-09,6:30:00,Miranshah,North Waziristan,FATA,1,4,,,4,,,,4,,,0,Followed a drone attack earlier on Feb9- 2012,com,70.1455,32.9746,-1
+286,2012-02-16,6:30:00,Spagla Town Near Miranshah,North Waziristan,FATA,1,,,,5,,,,5,,,0,No comments,bbc,70.1455,32.9746,-1
+288,2012-03-13,7:15:00,Birmal area of South Waziristan,South Waziristan,FATA,1,0,8,,,,,7,8,,2,0,No comments,dawn,69.9,33.0333,4
+290,2012-03-09,,Mandao area on the boarder od North and South Waziristan,South Waziristan,FATA,3,1,12,,,,,8,13,,,0,No comments,com,69.9,33.0333,5
+291,2012-03-30,3:00:00,Market in Miranshah North Waziristan,North Waziristan,FATA,3,0,0,,4,,,,4,,2,0,No comments,com,70.1455,32.9746,19
+292,2012-04-29,,Miranshah,North Waziristan,FATA,1,0,0,0,0,3,4,3,4,2,3,0,First drone strike in almost a month,express,70.1455,32.9746,15
+293,2012-05-05,,Shawal area- 70km west of Miranshah,North Waziristan,FATA,1,0,0,0,0,0,10,0,10,0,8,1,No comments,dailytimes,70.1455,32.9746,19
+294,2012-05-23,,Miranshah,North Waziristan,FATA,2,0,0,4,5,0,0,4,5,,,0,First U.S. Drone attack following the Chicago Summit,com,70.1455,32.9746,20
+295,2012-05-24,5:30:00,Mir Ali,North Waziristan,FATA,1,0,0,2,10,4,8,2,10,,,0,No comments,nation,70.1455,32.9746,21
+296,2012-05-26,4:00:00,Miranshah,North Waziristan,FATA,2,0,0,1,4,2,3,3,4,,,0,No comments,com,70.1455,32.9746,18
+297,2012-05-28,9:00:00,HassoKhel Town- 25km East of Miranshah,North Waziristan,FATA,1,0,0,5,8,0,0,5,8,,,0,No comments,com,70.1455,32.9746,23
+299,2012-06-02,8:30:00,Khawashikhel Village- 5km West of Wana,South Waziristan,FATA,1,0,3,0,0,0,0,2,3,,,0,No comments,com,69.9,33.0333,24
+300,2012-06-03,,Wacha Dana- 10km West of Wana,South Waziristan,FATA,1,0,11,0,0,0,0,6,11,0,2,0,No comments,express,69.9,33.0333,24
+301,2012-06-04,3:30:00,Heshokhel Village- 3km East of Mirali,North Waziristan,FATA,1,1,0,0,14,0,0,0,15,0,5,0,No comments,bbc,70.1455,32.9746,25
+302,2012-06-13,,Isha Village- 10km East of Miranshah,North Waziristan,FATA,1,0,0,3,4,0,0,3,4,,,0,No comments,express,70.1455,32.9746,21
+303,2012-06-14,3:15:00,Miranshah Bazaar,North Waziristan,FATA,2,0,0,2,4,0,0,2,4,0,2,0,No comments,express,70.1455,32.9746,23
+304,2012-06-26,2:00:00,Shawal Area- 50km Southwest of Miranshah,North Waziristan,FATA,1,0,5,0,0,0,0,0,5,0,3,0,Hafiz Gul Bahadur- Allied with Afghan Taliban,dailytimes,70.1455,32.9746,24
+305,2012-07-01,,Shawal District- 50km Southwest of Miranshah,North Waziristan,FATA,1,0,8,0,0,0,0,0,8,0,0,0,No comments,com,70.1455,32.9746,26
+306,2012-07-06,20:45:00,Zoi Nari- Tehsil Dattakhel,North Waziristan,FATA,6,0,0,4,17,0,0,4,17,2,3,0,No comments,tv,70.1455,32.9746,28
+308,2012-07-23,23:00:00,Dray Nashtar Village- 65km West of Miranshah,North Waziristan,FATA,8,0,0,10,12,0,0,10,12,0,0,0,No comments,dailytimes,70.1455,32.9746,27
+309,2012-07-29,18:30:00,Khushali Turkhel Village- 35km East of Miranshah,North Waziristan,FATA,6,0,0,0,0,0,7,0,7,0,0,0,Killed included Uzbek Militants,express,70.1455,32.9746,26
+310,2012-08-18,13:30:00,Shuwedar Village,North Waziristan,FATA,2,0,6,0,6,0,0,6,12,0,3,0,No comments,com,70.1455,32.9746,26
+311,2012-08-19,6:45:00,Mana- Shawal Area,North Waziristan,FATA,1,0,0,4,7,0,0,4,7,0,4,0,No comments,express,70.1455,32.9746,26
+313,2012-08-21,,Shna Khora- 5km West of Miranshah,North Waziristan,FATA,1,0,0,3,6,0,0,3,6,3,4,0,No comments,nation,70.1455,32.9746,27
+314,2012-08-24,,Makki Gharr- Shawal Area,North Waziristan,FATA,1,0,6,0,0,0,0,5,6,0,0,0,Targetted People Belong to Hafiz Gul Bahadur Group ,express,70.1455,32.9746,25
+317,2012-09-01,9:00:00,Degan Area- Datta Khel,North Waziristan,FATA,4,0,0,4,6,0,0,4,6,0,2,0,No comments,com,70.1455,32.9746,25
+318,2012-09-22,,Datta Khel,North Waziristan,FATA,1,0,0,3,4,0,0,3,4,0,2,0,No comments,com,70.1455,32.9746,19
+319,2012-09-24,,Kaderkhail Village- 40km East of Miranshah,North Waziristan,FATA,2,0,0,5,6,0,0,5,6,0,0,0,No comments,express,70.1455,32.9746,20
+320,2012-10-01,,Khaiderkhel Area- 30 km East of Miranshah,North Waziristan,FATA,4,0,0,0,3,0,0,0,3,0,0,0,No comments,com,70.1455,32.9746,19
+321,2012-10-10,4:00:00,Hurmaz village of Mir ali Tehsil,North Waziristan,FATA,4,0,0,0,5,0,0,0,5,0,0,0,Frist Drone attack following massive anti-drone rally of PTI,express,70.1455,32.9746,16
+322,2012-10-11,16:40:00,Bulandkhel Area- Orakzai,North Waziristan,FATA,4,0,0,17,18,0,0,17,18,15,20,0,Compound was owned by Mulana Shakirullah- The commander of Taliban's Hafiz Gul Bahadur Group,dailytimes,70.1455,32.9746,16
+323,2012-10-24,,Tappi Area- 20 km East of Miranshah,North Waziristan,FATA,2,0,0,3,5,0,0,3,5,0,0,1,No comments,express,70.1455,32.9746,12
+324,2012-11-29,12:00:00,Sheen Warak Area- Wana,North Waziristan,FATA,1,0,0,2,4,0,0,2,4,0,4,0,No comments,com,70.1455,32.9746,6
+325,2012-12-01,,Sheen Warsask Area,South Waziristan,FATA,3,0,0,0,3,0,1,0,4,0,3,0,Drone targeted Abdur Rehman Al-Yamni- key commander of Al-Qaeda linked Taliban group,com,69.9,33.0333,6
+326,2012-12-06,7:45:00,Mubarak Shah Village- Mir Ali,North Waziristan,FATA,2,0,0,3,4,0,0,3,4,0,0,0,No comments,com,70.1455,32.9746,9
+327,2012-12-09,,Tabbi Village- Miranshah,North Waziristan,FATA,4,1,0,0,3,0,0,1,4,0,6,0,Senior Al-Qaeda Commander Muhammad Ahmed Al-Mansoor was Among the Dead,express,70.1455,32.9746,7
+328,2012-12-21,12:15:00,Hisukhel Area of Mir Ali,North Waziristan,FATA,2,0,0,3,4,0,0,3,4,0,0,0,No comments,com,70.1455,32.9746,4
+329,2012-12-28,,Gurbuz- 65km West of Miranshah,North Waziristan,FATA,8,0,0,4,7,0,0,4,7,0,2,0,No comments,dailytimes,70.1455,32.9746,-3
+330,2013-01-02,22:00:00,Sara Kanda area of Birmal tehsil,South Waziristan,FATA,1,0,17,0,0,0,0,7,17,0,0,0,2 Missiles were fired on a vehicle,com,69.9,33.0333,1
+331,2013-01-06,,Babar Ghar Village,South Waziristan,FATA,1,0,17,0,0,0,0,10,17,0,7,0,10 Missiles were fired on 2 compounds,express,69.9,33.0333,0
+332,2013-01-08,,Haider Khel Village- 25km East of Miranshah,North Waziristan,FATA,8,0,0,4,8,0,0,4,8,1,4,0,No comments,dailytimes,70.1455,32.9746,1
+334,2013-01-10,,Heso Khel village- 35km East of Miranshah,North Waziristan,FATA,4,0,0,4,6,0,0,4,6,0,0,0,No comments,dailytimes,70.1455,32.9746,5
+335,2013-02-06,,Ghulam Khan Tehsil,North Waziristan,FATA,4,0,0,3,5,0,0,3,5,0,0,0,No comments,dawn,70.1455,32.9746,3
+336,2013-02-08,,Bobar Gar area- 50km south of Miranshah,North Waziristan,FATA,2,2,9,0,0,2,2,7,9,2,6,0,According to Intelligence sources- drones killed Abu Majid Al-Iraqi and Shiekh Waqas Al-Yamoni,thenews,70.1455,32.9746,5
+337,2013-03-21,23:30:00,Datta Khel tehsil- 35 kilometres west of Miransha,North Waziristan,FATA,1,0,0,1,4,0,0,1,4,0,0,0,Missiles left bodies charred and beyond recognition,,70.1455,32.9746,13
+338,2013-04-14,18:30:00,Datta Khel Tehsil- 50 Kilometres west of Miranshah,North Waziristan,FATA,2,0,0,4,4,0,0,4,4,0,0,0,As missiles mutilated the bodies- witnesses could not ascertain the identity of slain men,thenews,70.1455,32.9746,16
+339,2013-04-17,,Baber Ghar Area of South Waziristan,South Waziristan,FATA,2,0,5,0,0,0,0,5,5,2,7,0,Drone apparently targets Taliban training camp in Baber Ghar area of South Waziristan,aljazeera,69.9,33.0333,17
+340,2013-05-29,,Chashma village- 3km east of Miranshah,North Waziristan,FATA,2,0,7,0,0,0,0,7,7,4,4,0,Reportedly drone strike killed the number two of the Pakistan Taliban- Waliur Rehman- in the North Waziristan region,com,70.1455,32.9746,21
+341,2013-07-02,2:30:00, Sarai Darpa Khel area,North Waziristan,FATA,4,0,17,0,0,0,0,16,17,0,0,0,No comments,com,70.1455,32.9746,23
+342,2013-07-13,23:30:00,Mir Ali Tehsil,North Waziristan,FATA,2,0,0,0,0,2,2,2,2,0,0,0,Two missiles fire on a motor bike,,70.1455,32.9746,26
+343,2013-09-06,6:45:00,Ghulam Khan Area,North Waziristan,FATA,2,3,3,0,0,3,3,6,7,4,4,0,The deceased include Mullah Sangeen Zadran- the Haqqani Network commander- Jordanians Muhammad Abu Bilal Al-Khurrasani and Abu Dogana Al-Khairrasani- both allegedly al Qaeda members- Zubair- an Egyptian also an alleged al Qaeda member- and locals Arshad Dawar and Ajmal Dawar.,com,70.1455,32.9746,24
+344,2013-09-22,12:45:00,Shawal Town of North Waziristan,North Waziristan,FATA,4,0,0,6,7,0,0,6,7,2,3,0,Allegedly a militant compound while identities of people killed could be determined as yet,nation,70.1455,32.9746,24
+345,2013-09-29,,Dargamandi area- seven km north of Miranshah,North Waziristan,FATA,2,0,0,3,6,0,0,3,6,3,3,0,No comments,arabnews,70.1455,32.9746,24
+346,2013-10-27,1:00:00,Zafar Town area near Miramshah Bazar,North Waziristan,FATA,1,0,0,3,3,0,0,3,3,3,3,0,No comments,com,70.1455,32.9746,15
+347,2013-10-29,1:30:00,Dandey Darpakhel Area- five kilometres (three miles) north of Miranshah,North Waziristan,FATA,1,0,5,0,0,0,0,5,5,2,2,0,Hakimullah Mehsud- chief of the Tehrik-i-Taliban Pakistan (TTP)- was killed in a US drone strike along with his two key commanders Abdullah Bahar Mehsud and Tariq Mehsud.,com,70.1455,32.9746,15
+348,2013-11-21,,Tehsil Tal's main Tal bazaar,Hungu,KPK,4,0,0,2,2,4,4,6,8,6,8,0,Tal police official Sher Zaman said six people were killed in the attack includes Kaleemullah- Abdul Rehman- Mufti Hamidullah Haqqani- Maulvi Ahmed Jan- Abdullah and Gul Marjan,com,71.06,33.53,16
+349,2013-11-28,,Chashma area of Miranshah,North Waziristan,FATA,2,0,3,0,0,0,0,3,3,8,8,0,Strike comes on the eve of Pakistan Army’s change of command ceremony where Chief of Army Staff General Ashfaq Parvez Kayani will hand the baton to his successor General Raheel Sharif,com,70.1455,32.9746,11
+350,2013-12-14,,Mach Magai area of Loe Suleman,Khyber Agency,FATA,1,0,0,6,6,0,0,0,6,2,4,0,This is the first drone strike in Loe Suleman area of Khyber agency,nation,71.1481,34.0983,17
+351,2013-12-25,2:00:00,Qutub Khel village- 5km  east of miranshah,North Waziristan,FATA,2,0,0,3,4,0,0,3,4,0,1,0,No comments,dawn,70.1455,32.9746,4
+352,2014-06-11,2:30:00,Dargah Mandi village 10 kilometres (six miles) west of the main town of Miramshah ,North Waziristan,FATA,8,0,16,0,0,4,6,16,16,4,4,0,No comments,dawn,70.1455,32.9746,29
+353,2014-06-18,5:30:00,Dargah Mandi village 10 kilometres (six miles) west of the main town of Miramshah ,North Waziristan,FATA,6,0,0,6,6,0,0,6,6,0,0,0,No comments,com,70.1455,32.9746,29
+354,2014-07-10,5:00:00,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,2,0,6,0,0,0,0,6,6,0,0,0,Foreign Office- Pakistan spokesperson Tasneem Aslam said there is no confirmation on the fresh drone attack. Media outlets have reported a drone strike.,dawn,70.1455,32.9746,30
+355,2014-07-16,,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,4,0,20,0,0,0,0,18,20,0,5,0,No comments,dawn,70.1455,32.9746,30
+356,2014-07-19,23:45:00,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,1,0,15,0,0,5,5,8,15,0,0,0,No comments,dawn,70.1455,32.9746,28
+357,2014-08-06,,Datta Khel is about 50 kilometers (30 miles) west of Miran Shah,North Waziristan,FATA,1,0,0,0,0,5,6,5,6,2,2,0,No comments,dawn,70.1455,32.9746,30
+358,2014-09-24,4:45:00,Lorha Mandi area of Datta Khel tehsil- 65 kilometres west of Miramshah,North Waziristan,FATA,4,0,10,0,0,2,2,10,10,2,2,0,No comments,com,70.1455,32.9746,28
+359,2014-09-28,12:00:00,Karikot Karezai Pal- Wana,South Waziristan,FATA,1,0,4,0,0,2,2,4,4,0,0,0,No comments,dailytimes,69.9,33.0333,26
+360,2014-10-05,17:50:00,Kand Ghar area of Shawal district,South Waziristan,FATA,4,0,5,0,0,1,1,5,5,2,2,0,No comments,com,69.9,33.0333,26
+361,2014-10-06,17:45:00,Bari Mail area of Shawal district,South Waziristan,FATA,1,0,8,0,0,0,0,8,8,6,8,0,No comments,dawn,69.9,33.0333,25
+362,2014-10-07,,Kandghar area of Shawal,North Waziristan,FATA,2,0,7,0,0,0,0,6,7,5,11,0,No comments,tv,70.1455,32.9746,24
+365,2014-10-09,,Loman area of Dattakhel Tehsil,North Waziristan,FATA,1,0,0,3,3,0,0,3,4,2,2,0,No comments,dawn,70.1455,32.9746,21
+366,2014-10-30,,Nargas- a village some 30 kilometres west of Wana- the main town in the South Waziristan agency ,South Waziristan,FATA,1,0,7,0,0,1,4,4,7,0,0,0,No comments,geo,69.9,33.0333,16
+367,2014-11-11,,Doa Toi area of Datakhel tehsil in North Waziristan Agency,North Waziristan,FATA,1,0,6,0,0,0,0,4,6,0,2,0,No comments,dawn,70.1455,32.9746,14
+368,2014-11-20,,Dattakhel,North Waziristan,FATA,2,,6,0,-6,,,,5,,3,1,No comments,dawn,70.1455,32.9746,13
+369,2014-11-21,,N/A,North Waziristan,FATA,1,,5,0,-5,,,,9,,,0,No comments,lse,70.1455,32.9746,13
+370,2014-11-26,,Kundghar,North Waziristan,FATA,2,,4,0,-4,,,,6,,,0,No comments,dawn,70.1455,32.9746,14
+371,2014-12-03,,Dattakhel,North Waziristan,FATA,1,,3,0,3,,,6,9,,,0,No comments,dawn,70.1455,32.9746,13
+372,2014-12-07,6:00:00,Kher Tangi,North Waziristan,FATA,1,,,0,0,,,,18,,,0,No comments,dawn,70.1455,32.9746,12
+373,2014-12-20,,Dattakhel,North Waziristan,FATA,2,,,0,0,,,,6,,2,0,No comments,dawn,70.1455,32.9746,10
+374,2014-12-26,,Dattakhel,North Waziristan,FATA,1,,,0,0,,,,6,,,0,No comments,dawn,70.1455,32.9746,13
+376,2015-01-03,,Shawal valley ,North Waziristan,FATA,1,,,,,,,,8,,2,0,No comments,dawn,70.1455,32.9746,8
+377,2015-01-15,,Acha Dara area ,North Waziristan,FATA,1,,6,,,,,,6,,,,No comments,dawn,70.1455,32.9746,9
+379,2015-01-19,,Shawal Valley,North Waziristan,FATA,2,,,,,,7,,6,,4,,No comments,dawn,70.1455,32.9746,10
+380,2015-01-28,,Shawal Valley,North Waziristan,FATA,2,,,7,,,,,7,,4,,No comments,dawn,70.1455,32.9746,5
+381,2015-03-24,,Nazyan district of Afghanistan's Nangarhar province,Khyber Agency,FATA,2,,9,,,,,,9,,,0,No comments,dawn,71.1481,34.0983,20
+382,2015-03-18,,Shabak Kurram tribal agency-adjacent to North Waziristan,North Waziristan,FATA,1,,3,,,,,2,3,,,0,No comments,dawn,70.1455,32.9746,13
+383,2015-04-12,,Shawwal ,North Waziristan,FATA,2,4,,,,,,,4,,,0,No comments,express,70.1455,32.9746,19
+384,2015-05-16,,Warokey Mandi area Shawal district,North Waziristan,FATA,2,,,,,1,,5,6,,2,0,No comments,dawn,70.1455,32.9746,26
+385,2015-05-18,,Zoey Narey Shawal Valley ,North Waziristan,FATA,2,,,,,,,,6,,2,0,No comments,dawn,70.1455,32.9746,26
+387,2015-05-21,, Datta Khel- Shawal Valley ,North Waziristan,FATA,1,,,,,,,15,16,,,0,No comments,com,70.1455,32.9746,27
+388,2015-06-01,,Shawal area,North Waziristan,FATA,2,,,,,,,,4,,,0,No comments,geo,70.1455,32.9746,26
+389,2015-06-06,,Shawal Valley,North Waziristan,FATA,1,,9,,,,,8,9,,,0,No comments,presstv,70.1455,32.9746,27
+390,2015-08-06,,Datta Khel ,North Waziristan,FATA,1,,5,,,,,,5,,,0,No comments,presstv,32.905167,69.748798,16
+391,2015-09-01,,Shawal Valley/Datta Khel(Karwanda /Lawra Mandi area),North Waziristan,FATA,1,,,,,,,,5,,3,0,No comments,ndtv,32.844444,69.830556,8
+392,2015-09-07,,Shawal Valley,North Waziristan,FATA,1,,,,,,,,3,,,0,Pakistani-made 'Burraq' drone kills three terrorists in Shawal,com,32.844444,69.830556,7
+393,2015-09-18,,Shonkrai Narai area,North Waziristan,FATA,2,,,6,7,,,6,7,6,,0, the strike was launched at a vehicle close to a militants' hideout in Shonkrai Narai area of South Waziristan. a semi-autonomous tribal area along Pakistan- Afghanistan border.,com,32.320237,69.859741,8
+395,2016-01-09,,Mangroti area,North Waziristan,FATA,1,,,,,,,0,5,,,0,No comments,dailykashmirimages,32.320237,69.859741,-7
+396,2016-01-22,,Kurram agency,North Waziristan,FATA,4,,,,,,,,3,1,1,0,No comments,tv,33.695975,70.336069,-14
+397,2016-05-21,15:45:00,Kuchaki,Dalbandin,Balochistan,1,0,1,1,1,0,0,2,2,0,0,0,"In Pakistan's Balochistan province targeted and killed Taliban leader Mullah Akhtar Monsour on Saturday, May 21, 2016 as he was traveling from Iran to Quetta,  in a vehicle with his driver along Route N-40.",theguardian,28.896179,64.399215,9
+398,2017-03-02,16:00:00,"Sara Khwa, Kurram agency",North Waziristan,FATA,1,0,2,0,0,0,0,2,2,0,0,0,No comments,thenews,32.293811,70.105,23
+400,2017-04-26,12:30:00,Lawara Mandi area,North Waziristan,FATA,2,,7,3,3,,,10,10,,,,No comments,geo,33.145357,70.029226,29
+401,2017-05-24,12:00:00,"Garvik area, Shawal Tehsil",North Waziristan,FATA,1,,,,,0,0,3,3,0,0,0,killing two TTP militants and a key commander Abdullah Kashmiri.,thenews,32.7061861,69.4157815,26
+402,2017-06-12,21:00:00,Spin Thal,Hangu,KPK,1,,,0,0,0,0,2,2,0,0,0,Thal city falls in Hangu district and lies close to the border with FATA. It is also very close to Spin Thal. ,dawn,33.358693,70.54072,
+403,2017-07-03,,,South Waziristan,FATA,2,,,0,0,0,0,4,4,0,0,0,No comments,dawn,32.120819,69.589987,23
+404,2017-09-15,,Ghuz Ghari,Kurram Agency,FATA,2,,,0,0,0,0,3,3,2,2,0,No comments,dawn,33.732174,70.150755,
+405,2017-10-16,,Zero-point,Lower Kurram Agency,FATA,4,,5,,,0,0,17,26,,,0,"Conflict of Report: Foreign media reported that the target of the strike was Abu Bakar, a Haqqani network commander; One of the dead was identified by local officials as militant commander Sangeen Wali Shah.",thesundaily,,,
